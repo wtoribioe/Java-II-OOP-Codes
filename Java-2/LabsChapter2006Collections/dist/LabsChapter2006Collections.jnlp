@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="LabsChapter2006Collections.jnlp">
+  <information>
+    <title>LabsChapter2006Collections</title>
+    <vendor>Wilfrido</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="LabsChapter2006Collections.jar" size="5597" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="LabsChapter2006Collections" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="labschapter2006collections.LabsChapter2006Collections"  name="LabsChapter2006Collections" />
+  <update check="always"/>
+</jnlp>

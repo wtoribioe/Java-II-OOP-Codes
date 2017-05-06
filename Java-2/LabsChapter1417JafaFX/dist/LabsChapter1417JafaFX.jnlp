@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="LabsChapter1417JafaFX.jnlp">
+  <information>
+    <title>LabsChapter1417JafaFX</title>
+    <vendor>Wilfrido</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="LabsChapter1417JafaFX.jar" size="1720" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="LabsChapter1417JafaFX" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="labschapter1417jafafx.LabsChapter1417JafaFX"  name="LabsChapter1417JafaFX" />
+  <update check="always"/>
+</jnlp>

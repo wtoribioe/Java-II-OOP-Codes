@@ -1,0 +1,4 @@
+labschapter1323clonable.Duck
+labschapter1323clonable.Chicken
+labschapter1323clonable.Animal
+labschapter1323clonable.Labschapter1323Clonable

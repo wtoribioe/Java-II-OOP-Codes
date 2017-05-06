@@ -1,0 +1,2 @@
+staticbindingexample.Boy
+staticbindingexample.StaticBindingExample
